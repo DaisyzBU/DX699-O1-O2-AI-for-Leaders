@@ -1,0 +1,520 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Mexico",N/A,1306265,520860,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Washington,1,0,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Congo, Democratic Republic of the",N/A,31,15,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Haiti",N/A,510,152,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Ecuador",N/A,46,35,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Dominica",N/A,244,53,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",California,51058,4474,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Arizona,13015,1144,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Idaho,1674,205,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",Florida,71540,38172,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",New York,292,73,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Peru",N/A,444,137,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Hawaii,10484,1516,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Colombia",N/A,339644,232474,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Washington,1,0,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Florida,79485,18240,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mali",N/A,156,90,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Taiwan",N/A,3537,460,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Nova Scotia,"Colombia",N/A,163501,57834,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Saint Lucia",N/A,756,414,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",California,434255,87559,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Jamaica",N/A,126606,38687,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"United States",California,10652,2778,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Dominican Republic",N/A,6380,2666,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Dominican Republic",N/A,22772,6840,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Uganda",N/A,864,490,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Trinidad and Tobago",N/A,613,64,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Guatemala",N/A,1263,331,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"India",N/A,1003,195,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Guyana",N/A,2871,650,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Pennsylvania,30411,17962,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Florida,970552,316944,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mexico",N/A,4621992,823637,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Dominican Republic",N/A,137431,43921,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Colombia",N/A,50780,18612,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"South Africa",N/A,279,28,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Australia",N/A,9868,1178,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",New York,616,80,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Nigeria",N/A,5,1,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Colombia",N/A,10326259,2475074,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Mexico",N/A,16051163,3891077,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Arizona,1813,131,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Florida,24,6,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Dominican Republic",N/A,9389,3123,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Uganda",N/A,1103,449,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",Colorado,258,95,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Taiwan",N/A,2760,400,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Colombia",N/A,46487,17146,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Côte d'Ivoire",N/A,79,57,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Costa Rica",N/A,3605,919,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Jamaica",N/A,13233,3369,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Florida,891,352,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Saint Lucia",N/A,7260,2344,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Texas,78349,30505,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Peru",N/A,4761393,1716034,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Mexico",N/A,181610759,61573880,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"South Africa",N/A,321,77,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Morocco",N/A,634660,149482,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",California,15282,1201,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Mexico",N/A,50459463,15893132,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Brazil",N/A,8832,4748,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Virginia,53112,4497,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",California,18345,1424,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Uganda",N/A,6935,1012,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Ohio,602,201,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Cuba",N/A,18731,7140,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Michigan,61,12,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Florida,205,57,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Uganda",N/A,3787,902,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Mexico",N/A,3302117,839312,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Brazil",N/A,187335,118105,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Mexico",N/A,56032947,14439683,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Texas,74959,7226,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Mexico",N/A,45361791,12936909,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Arizona,4841,380,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",California,359522,59085,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",Texas,4797,338,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Colombia",N/A,1515,479,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Israel",N/A,440,87,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Colombia",N/A,316372,118735,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Cameroon",N/A,108,86,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",New Jersey,35915,9205,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Jamaica",N/A,119,39,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Uganda",N/A,2582,751,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Texas,6265,462,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Texas,50538,18148,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Uganda",N/A,92,18,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Peru",N/A,2686118,805739,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Cameroon",N/A,103,26,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Peru",N/A,425803,206784,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Taiwan",N/A,2965,725,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Florida,219,36,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Idaho,947,50,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Colombia",N/A,36532,18144,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Jamaica",N/A,512,133,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Canada",N/A,163,63,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",New Jersey,1914,617,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",California,1162931,325935,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Morocco",N/A,87009,19330,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Peru",N/A,7445886,2242006,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Mexico",N/A,808444,251517,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Mexico",N/A,64831295,15700853,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Spain",N/A,578,39,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",Florida,270078,108028,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Cameroon",N/A,299,140,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Oregon,28,27,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",New York,24,12,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Peru",N/A,5040200,1719132,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Colombia",N/A,53468,17325,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Peru",N/A,567377,146634,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Jamaica",N/A,394,97,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",New York,256,47,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Congo, Democratic Republic of the",N/A,1110,445,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Spain",N/A,1070,60,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Mexico",N/A,236914028,66883875,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"New Zealand",N/A,7757024,1627722,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",California,13661,1230,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"United States",California,1535,266,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mexico",N/A,501129,140217,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Arizona,188,131,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Viet Nam",N/A,402,56,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Guyana",N/A,180,20,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Jamaica",N/A,69110,19037,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"Mexico",N/A,187,52,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Canada",N/A,40921,17186,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Dominican Republic",N/A,53089,38208,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Dominican Republic",N/A,125090,38633,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",California,559206,148948,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Hawaii,2737,369,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Uganda",N/A,41,10,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Washington,74573,16830,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Peru",N/A,2313,248,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Uganda",N/A,79,88,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Uganda",N/A,91,56,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Texas,13432,2402,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Honduras",N/A,24552,12200,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Peru",N/A,8300,2687,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Mexico",N/A,9026267,3181081,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",California,488694,138949,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Germany",N/A,6,2,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Cameroon",N/A,210,30,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Taiwan",N/A,3409,480,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Dominican Republic",N/A,48,25,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Dominican Republic",N/A,555798,223022,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Texas,10585,877,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",New York,19,4,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",California,22062,2317,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Michigan,3601,727,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",California,424980,46023,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Brazil",N/A,20,16,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Peru",N/A,3756954,1065681,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"France",N/A,12860,1996,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Colombia",N/A,1539,600,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Tanzania, United Republic of",N/A,11,10,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Tanzania, United Republic of",N/A,130,47,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Jamaica",N/A,432,99,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Nigeria",N/A,540,120,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Taiwan",N/A,2115,330,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Chile",N/A,427,45,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Mexico",N/A,42035811,15006515,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Dominican Republic",N/A,21914,7027,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",California,271083,40321,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",New York,35,9,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Fiji",N/A,54,11,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Nevada,7,3,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Thailand",N/A,1103,105,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Korea, South",N/A,128705,43469,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Texas,67642,19327,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Dominican Republic",N/A,995086,378437,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Brazil",N/A,266744,144708,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Brazil",N/A,1307,658,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",New Jersey,59379,16841,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Arizona,1695,127,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Jamaica",N/A,2598,574,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Dominica",N/A,678,227,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Morocco",N/A,12,4,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Colombia",N/A,5639272,1925160,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Hawaii,3820,563,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",California,893326,180407,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Brazil",N/A,534559,224602,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",California,38065,2694,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Dominican Republic",N/A,42635,29986,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Israel",N/A,92,38,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Texas,12062,871,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",Texas,1833,431,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Texas,3488,214,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Sri Lanka",N/A,301,117,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Australia",N/A,595581,78403,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Colombia",N/A,236501,101739,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Uganda",N/A,92,79,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Türkiye",N/A,4701,280,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",California,299669,59378,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",New York,68,11,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Texas,174170,42517,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"United States",California,1077,252,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Texas,24300,1598,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Morocco",N/A,260052,45240,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Ecuador",N/A,3278,2057,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Spain",N/A,504,39,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Guatemala",N/A,27,18,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Saint Vincent and the Grenadines",N/A,962,420,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",California,237831,69552,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Jamaica",N/A,129338,64113,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",Texas,10849,647,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Colombia",N/A,83529,52645,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Peru",N/A,38302,9367,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Texas,120164,62818,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Pennsylvania,170,49,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",New York,6,1,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Illinois,38,5,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mexico",N/A,1349341,318364,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",Florida,331883,168031,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",Arizona,570,31,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Uganda",N/A,701,161,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Dominican Republic",N/A,1189270,528822,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Kenya",N/A,106849,50416,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Peru",N/A,4721,2007,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Haiti",N/A,1791,412,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",California,55975,5974,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Mexico",N/A,12081261,4425269,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",California,182809,26199,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Texas,379451,189234,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Sri Lanka",N/A,40,10,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Colombia",N/A,72557,36304,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Saint Lucia",N/A,3627,2582,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Florida,403,33,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Mexico",N/A,57015611,15610142,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Florida,25810,6434,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Kenya",N/A,123377,43008,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",California,2579,165,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Ecuador",N/A,161,20,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"China",N/A,148,9,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Texas,840538,195159,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Florida,452510,147011,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Dominican Republic",N/A,42876,16196,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Morocco",N/A,23,7,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Mexico",N/A,54279711,14625804,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Colombia",N/A,20349,3992,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Nova Scotia,"Dominican Republic",N/A,228,129,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Arizona,5407,320,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Viet Nam",N/A,27,6,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Chile",N/A,270,21,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Taiwan",N/A,624,100,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Dominican Republic",N/A,2548529,914971,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Guatemala",N/A,23912,18152,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Dominican Republic",N/A,1048794,393963,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"South Africa",N/A,83,7,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Florida,1792,348,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Taiwan",N/A,2287,400,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Jamaica",N/A,907,203,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Cuba",N/A,108,39,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Texas,162109,28438,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Colombia",N/A,327836,125515,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Dominican Republic",N/A,1283573,666416,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Illinois,10,3,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Colombia",N/A,104842,54270,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Taiwan",N/A,411,60,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Saint Lucia",N/A,79,47,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Uganda",N/A,4640,1157,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Texas,2318,281,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",California,192057,10927,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Texas,550366,176351,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Costa Rica",N/A,1131,190,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Chile",N/A,384,32,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Colombia",N/A,178,11,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Cuba",N/A,1389,947,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",Puerto Rico,39672,10206,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Colombia",N/A,1367004,494234,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Mexico",N/A,199505904,67474706,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mexico",N/A,4504376,1055054,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Hawaii,10642,1711,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Dominican Republic",N/A,1373321,520610,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Arizona,5648,1347,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Costa Rica",N/A,2662,494,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Israel",N/A,500,79,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"China",N/A,1959,175,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Dominican Republic",N/A,100396,30868,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Côte d'Ivoire",N/A,23,6,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Florida,682,166,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Dominican Republic",N/A,4495,1920,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Uganda",N/A,360,97,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Mexico",N/A,14974351,4439775,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Jamaica",N/A,55135,14042,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Jamaica",N/A,5584,1257,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Uganda",N/A,2604,1000,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Colombia",N/A,2161401,556238,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"New Zealand",N/A,3983208,827108,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"India",N/A,18,5,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Taiwan",N/A,2468,340,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Côte d'Ivoire",N/A,11,8,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Dominica",N/A,4656,1829,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Arizona,2904,253,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Peru",N/A,13726211,4176473,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Michigan,5924,1051,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Mexico",N/A,71561446,16845660,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",New York,16,5,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Florida,464,113,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",California,22,4,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Oregon,15364,9144,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Jamaica",N/A,99,52,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Nova Scotia,"Jamaica",N/A,109,75,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Cuba",N/A,35505,16307,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Colombia",N/A,145046,43409,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Florida,503954,152392,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Texas,88029,33496,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Dominican Republic",N/A,6012,2099,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Jamaica",N/A,23779,5516,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Ghana",N/A,1,1,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Ecuador",N/A,6821,2032,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Jamaica",N/A,1272,167,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Saint Lucia",N/A,4280,4173,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Illinois,18,5,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Mexico",N/A,190238091,67226042,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Peru",N/A,6180323,2436305,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Mexico",N/A,51153648,16102061,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",Arizona,3478,184,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Florida,293203,116436,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Arizona,12036,1069,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",California,307136,87689,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"China",N/A,10270,622,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Nigeria",N/A,443,53,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Peru",N/A,2190508,875497,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Peru",N/A,50860,9979,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Costa Rica",N/A,31930,7540,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Guatemala",N/A,115,21,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Grenada",N/A,192,109,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Dominican Republic",N/A,8790,3859,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Morocco",N/A,30,20,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Arizona,4251,311,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Jamaica",N/A,6757,2510,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Fiji",N/A,81,18,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Florida,1636,443,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Brazil",N/A,180163,44029,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Trinidad and Tobago",N/A,475,54,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Cameroon",N/A,193,188,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Egypt",N/A,33,4,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Ecuador",N/A,17846,3515,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Viet Nam",N/A,3910,240,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Dominican Republic",N/A,1001633,434529,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Colombia",N/A,251954,167657,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Mexico",N/A,53394478,16436461,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Spain",N/A,54,8,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Mexico",N/A,373273,165706,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"Dominican Republic",N/A,3568,2158,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Brazil",N/A,163788,105712,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Illinois,7761,1182,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"New Zealand",N/A,1017275,249322,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Michigan,649,94,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Dominican Republic",N/A,17501,6767,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"United States",California,8528,1620,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Texas,65335,40560,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Illinois,19,9,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Somalia",N/A,125,297,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Nevada,27,4,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",New Jersey,8135,3280,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Peru",N/A,1206893,329405,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Saint Lucia",N/A,1940,1551,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Viet Nam",N/A,495,32,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Texas,1225,127,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Illinois,156,32,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",Florida,103260,39338,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Israel",N/A,90,19,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",California,324698,77485,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Dominican Republic",N/A,115785,37075,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",California,215004,33819,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Spain",N/A,599,41,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Costa Rica",N/A,12058,4560,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Fiji",N/A,70,19,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Uganda",N/A,1827,374,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Brazil",N/A,75299,28306,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Puerto Rico,68284,6109,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Peru",N/A,1252874,466333,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mali",N/A,26,12,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"New Zealand",N/A,62045,27244,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Philippines",N/A,17,1,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Mexico",N/A,6329356,2034377,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Fiji",N/A,480,65,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Peru",N/A,5344967,1704109,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Dominican Republic",N/A,28958,9478,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Israel",N/A,98,16,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"New Zealand",N/A,2752844,623179,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",New Jersey,78111,11780,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",District of Columbia,57818,13472,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Dominican Republic",N/A,409386,188823,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Uganda",N/A,4456,968,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Israel",N/A,124,35,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Florida,3975,1149,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Peru",N/A,2728503,939648,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Trinidad and Tobago",N/A,20,5,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Jamaica",N/A,5435,2413,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Mexico",N/A,13101603,3799557,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Mexico",N/A,210021559,58377715,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Dominican Republic",N/A,3194,1302,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Dominican Republic",N/A,3185,1400,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Arizona,1402,164,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Jamaica",N/A,5226,2106,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Pennsylvania,113,28,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Morocco",N/A,440353,105110,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Peru",N/A,1186,602,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"Colombia",N/A,60351,22173,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Peru",N/A,634215,253839,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Ohio,916,324,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Ecuador",N/A,3110,272,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",Florida,279319,108359,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Brazil",N/A,15541,5275,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Peru",N/A,3998656,1637709,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Dominica",N/A,10773,4735,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Cameroon",N/A,83,75,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Congo, Republic of the",N/A,30,14,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Nigeria",N/A,540,120,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Viet Nam",N/A,71,27,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Jamaica",N/A,8088,2475,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Dominican Republic",N/A,160377,44511,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Michigan,6308,1225,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Texas,528160,169579,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",California,70549,5797,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",California,972631,211900,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Israel",N/A,466,74,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Costa Rica",N/A,8312,1814,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Guinea",N/A,7,10,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Colombia",N/A,2345967,603599,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mali",N/A,115,35,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",California,204,14,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Brazil",N/A,49065,17882,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Morocco",N/A,2511276,473016,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Dominican Republic",N/A,1251452,426207,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Dominica",N/A,2275,850,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",New York,7,2,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Ecuador",N/A,32299,11246,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Brazil",N/A,27957,4480,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Spain",N/A,111027,18080,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Ecuador",N/A,48,23,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Peru",N/A,18480,8129,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",New York,160,23,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",California,627069,220453,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Mexico",N/A,40966433,13415930,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Türkiye",N/A,23482,1836,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Brazil",N/A,85427,34308,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Colombia",N/A,357082,150561,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mexico",N/A,1805188,423883,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",California,4047,266,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Costa Rica",N/A,50019,17595,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",Texas,770,36,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Congo, Democratic Republic of the",N/A,52,44,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Peru",N/A,1416271,531142,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Florida,2994,1331,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"United States",Florida,13572,3603,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Viet Nam",N/A,4421,940,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"New Zealand",N/A,84622,19532,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Hawaii,50839,5903,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",Texas,20718,1584,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Mexico",N/A,47072724,16133884,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Mexico",N/A,1026446,262049,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Illinois,91,34,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Dominican Republic",N/A,6196,3637,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"United States",California,1042,301,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Dominican Republic",N/A,1066,509,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Brazil",N/A,170062,135569,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Washington,13725,6212,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Puerto Rico,1021,17,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Ghana",N/A,37,15,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Uganda",N/A,567,100,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Jamaica",N/A,4641,1791,Weight in kilograms
+2021-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Cameroon",N/A,220,188,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"United States",California,62604,4370,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Peru",N/A,11500258,4182216,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Florida,527169,201903,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Jamaica",N/A,108757,50324,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Arizona,4706,270,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"United States",California,9538,2216,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Taiwan",N/A,2180,280,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Georgia,123,25,Weight in kilograms
+2022-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Nova Scotia,"Jamaica",N/A,497,192,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Brazil",N/A,269041,77443,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Morocco",N/A,107,7,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Florida,386381,122291,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Jamaica",N/A,5142,1833,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",Texas,15252,1403,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"United States",Ohio,14,15,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"United States",New York,4,2,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Benin",N/A,1,0,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Kenya",N/A,366084,178109,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Manitoba,"Peru",N/A,1847,1125,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Haiti",N/A,1354,601,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"New Zealand",N/A,27,9,Weight in kilograms
+2023-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Australia",N/A,843,180,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Dominican Republic",N/A,1477639,546841,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",California,219158,28043,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Mexico",N/A,247552047,67071867,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Uganda",N/A,67,50,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",Hawaii,5844,936,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Colombia",N/A,115911,25282,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Canada",N/A,67807,27825,Weight in kilograms
+2024-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Taiwan",N/A,690,100,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Morocco",N/A,2643543,686677,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Dominican Republic",N/A,2765946,981654,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Peru",N/A,5556736,2223306,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Mexico",N/A,2516184,811788,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Kenya",N/A,107049,44588,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Dominica",N/A,19424,5369,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Jamaica",N/A,4064,840,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"Cuba",N/A,503,192,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Trinidad and Tobago",N/A,1888,620,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Australia",N/A,28,6,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Guatemala",N/A,21,12,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Türkiye",N/A,4775,278,Weight in kilograms
+2025-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",New Brunswick,"United States",Massachusetts,77,24,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Quebec,"United States",Florida,81125,28675,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Saskatchewan,"Mexico",N/A,2109001,789024,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Alberta,"Uganda",N/A,6090,768,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"United States",New York,15,2,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",Ontario,"Trinidad and Tobago",N/A,82,9,Weight in kilograms
+2026-01-01,"0804.40.00.00 - Avocadoes, fresh or dried",British Columbia,"Viet Nam",N/A,7,1,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-11-16
